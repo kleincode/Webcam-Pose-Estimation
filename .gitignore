@@ -1,0 +1,17 @@
+# Visual Studio
+/.vs
+**.sln
+**.vcxproj
+**.vcxproj.user
+
+# Visual Studio Code
+/.vscode
+
+# Premake 5
+premake5.exe
+
+# Conan
+/dependencies
+
+# Build output
+/build
