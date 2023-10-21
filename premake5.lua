@@ -1,10 +1,10 @@
 include "dependencies/conandeps.premake5.lua"
 
-workspace "AutoDirector"
+workspace "WebcamPoseEstimation"
     configurations { "Debug", "Release" }
     architecture "x64"
 
-    project "AutoDirector"
+    project "WebcamPoseEstimation"
         kind "ConsoleApp"
         language "C++"
         cppdialect "C++20"

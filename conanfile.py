@@ -1,7 +1,7 @@
 from conan import ConanFile
 
 
-class AutoDirectorRecipe(ConanFile):
+class WebcamPoseEstimationRecipe(ConanFile):
     # Which settings are affecting our project?
     settings = "os", "compiler", "build_type", "arch"
     # Craft dependencies into a format that the build system understands
